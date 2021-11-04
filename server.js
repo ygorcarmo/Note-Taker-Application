@@ -5,8 +5,6 @@ const api = require('./routes/index.js');
 
 const PORT = process.env.port || 3001;
 
-var server_port = process.env.YOUR_PORT || process.env.PORT || 80;
-var server_host = process.env.YOUR_HOST || '0.0.0.0';
 
 const app = express();
 
@@ -35,6 +33,6 @@ app.get('*', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
-app.listen(PORT, server_port,server_host, () =>
+app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
 );
