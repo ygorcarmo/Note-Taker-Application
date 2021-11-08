@@ -3,10 +3,10 @@
   
 ## Table of Contents
  * [Installation](#installation)
- * [Technologies](#technologies used)
+ * [Technologies](#technologies-used)
  * [Contributing](#contributing)
  * [License](#license)
- * [Url](#application url)
+ * [Url](#application-url)
 
 ## Installation
 
