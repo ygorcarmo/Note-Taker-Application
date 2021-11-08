@@ -1,13 +1,12 @@
 # Note-Taker-Application
 ## Description
-  ${data.description}
+  
 ## Table of Contents
  * [Installation](#installation)
- * [Usage](#usage)
- * [Technologies](#technologies)
+ * [Technologies](#technologies used)
  * [Contributing](#contributing)
  * [License](#license)
- * [Url](#application)
+ * [Url](#application url)
 
 ## Installation
 
