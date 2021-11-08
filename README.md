@@ -1,14 +1,17 @@
 # Note-Taker-Application
 ## Description
+A simple note taker, it doesn't have user validation. Anyone will be able what is inserted in the notes.
   
 ## Table of Contents
  * [Installation](#installation)
  * [Technologies](#technologies-used)
- * [Contributing](#contributing)
+ * [Installation](#installation)
  * [License](#license)
  * [Url](#application-url)
 
 ## Installation
+
+When first running the application run "npm i"
 
 
 ## Technologies Used
